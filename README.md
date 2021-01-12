@@ -1,2 +1,17 @@
-# SCRUM/GIT TUT
-One page template, a great choice for creating a personal portfolio website, including services, projects and contact form with nice and smooth scrolling through the sections. Modern and clean HTML5 template, perfect for your online CV.
+#Frameworks used
+- Bootstrap
+- Responsive
+- jQuery
+- skrollr
+
+#About
+This is a site made using the frameworks listed above.
+
+#usage
+You can use this site for any non comercial website.
+
+#Credits
+Made by tia3v1b
+
+#Contributers
+Bartje
